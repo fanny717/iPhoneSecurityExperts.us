@@ -1,0 +1,23 @@
+{
+  "name": "iphone-security-experts-us",
+  "version": "1.0.0",
+  "description": "iPhone Security Experts - Professional iOS security audits, data recovery, and forensic investigation services",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanny717/iPhoneSecurityExperts.us.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fanny717/iPhoneSecurityExperts.us/issues"
+  },
+  "homepage": "https://github.com/fanny717/iPhoneSecurityExperts.us#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
